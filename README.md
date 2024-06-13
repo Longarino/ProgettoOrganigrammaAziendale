@@ -1,1 +1,1 @@
-Per far partire l'applicazione fare la run di "AscoltatoriEventiAzione" in "src".
+Per far partire l'applicazione fare la run di "AscoltatoreEventiAzione" in "src".
